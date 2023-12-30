@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+*You can just call me Rafael.*
 
-Feel free to tell the world about what you love! 😍
+Just another lost soul in the PhD world. If you have to contact me, <a href="mailto:rafael.wu@pm.me">write me an email</a>.
