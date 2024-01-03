@@ -1,8 +1,10 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about
 ---
+
+# About Me
 
 *You can just call me Rafael.*
 
