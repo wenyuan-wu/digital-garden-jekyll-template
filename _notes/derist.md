@@ -2,21 +2,28 @@
 title: DESRIST
 ---
 
-## 19. International Conference on Design Science Research in Information Systems and Technology
+## International Conference on Design Science Research in Information Systems and Technology
 
-03.06.2024 - 05.06.2024
+
+
+### 2024: 19th Conference
+
+==03.06.2024 - 05.06.2024==
+
 University West, Trollhättan, Sweden
-[Official Website?](https://www.hv.se/om-oss/event-och-konferenser/desrist-2024/)
+
+[Official Website](https://www.hv.se/om-oss/event-och-konferenser/desrist-2024/)
+
 ### KEY DATES
 
-- **January 22, 2024, 11.59 p.m. CET (anywhere on earth)**
+- **January 22, 2024, 11.59 p.m. CET (anywhere on earth)**  
 	Deadline for full paper and research in progress (RIP) paper submissions
 - **February 26, 2024**  
     Paper reviews due
 - **March 1, 2024**  
     Deadline for research summary submission for the doctoral consortium
-- **March 1, 2024  
-    **Registration opens
+- **March 1, 2024**  
+    Registration opens
 - **March 14, 2024**  
     Notification of paper acceptances
 - **March 15, 2024**  
@@ -30,7 +37,9 @@ University West, Trollhättan, Sweden
 - **May 17, 2024**  
     Registration closes
 
-[Official Website?](https://www.hv.se/om-oss/event-och-konferenser/desrist-2024/)
+### Resources
+
+[Official Website](https://www.hv.se/om-oss/event-och-konferenser/desrist-2024/)
 [Submissions](https://www.hv.se/om-oss/event-och-konferenser/desrist-2024/submissions/)
 [Wirtschaftsinformatik](https://wirtschaftsinformatik.de/termine-startseite/19.-desrist-2024)
 
