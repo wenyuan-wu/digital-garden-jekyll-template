@@ -30,7 +30,7 @@ The following points are desgin elements (?) for the chatbot to achieve persuasi
 #### Providing psychological support after realationship formation
 
 
-#### Using Mataphor
+#### Using Metaphor
 
 
 
