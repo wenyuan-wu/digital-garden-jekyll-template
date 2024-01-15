@@ -8,7 +8,7 @@ Design science research is a research paradigm focusing on the development and v
 
 ### GPT-4:
 
-Design Science Research (DSR) is a methodology used primarily in information systems and related fields, but it is also applicable to other domains such as engineering, architecture, education, art, and health sciences. Its primary goal is to create and evaluate innovative artifacts intended to solve identified organizational, business, or technical problems through design.
+Design Science Research (DSR) is a methodology used primarily in information systems and related fields, but it is also applicable to other domains such as engineering, architecture, education, art, and health sciences. ==Its primary goal is to create and evaluate innovative artifacts intended to solve identified organizational, business, or technical problems through design==.
 
 DSR involves an iterative process that includes the following steps or elements:
 

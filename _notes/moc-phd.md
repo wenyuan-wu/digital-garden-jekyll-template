@@ -6,4 +6,4 @@ Doctor of Philosophy
 
 ### Outlets
 
-[[derist|DERIST]]
+[[desrist|DERIST]]
