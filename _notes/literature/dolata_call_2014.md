@@ -56,7 +56,6 @@ The limitations of the article include an incomplete literature review and a pri
   publisher = {Springer International Publishing},
   address   = {Cham},
   pages     = {273--288},
-  abstract  = {Competitive markets force diverse organizations to intensively manage innovation. Many of them set up multifunctional teams responsible for generating novel and original ideas. Such teams often face higher risk of conflicts and tensions, being an inherent part of creative processes. Impact of this phenomena on creative performance of teams, even though extensively addressed in research, remains unclarified. We approach this issue while providing a novel interpretation framework inspired by the concept of harmony in jazz improvisation. We apply it to observations made with project teams in an organizational setting, and use it to inform design of a supporting collaborative solution. We postulate the need for further work on team harmony and creativity.},
   isbn      = {978-3-319-06701-8}
 }
 ```

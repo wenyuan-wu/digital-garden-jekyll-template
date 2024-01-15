@@ -4,8 +4,6 @@ title: DESRIST
 
 ## International Conference on Design Science Research in Information Systems and Technology
 
-
-
 ### 2024: 19th Conference
 
 ==03.06.2024 - 05.06.2024==
@@ -13,6 +11,33 @@ title: DESRIST
 University West, Trollhättan, Sweden
 
 [Official Website](https://www.hv.se/om-oss/event-och-konferenser/desrist-2024/)
+
+### Research Tracks
+
+[Source](https://www.hv.se/om-oss/event-och-konferenser/desrist-2024/submissions/research-tracks/)
+
+- Theme track: DSR for a Resilient World
+- General Track
+- DSR Methods and Education
+- DSR in Practice
+- Emerging Topics in DSR
+
+### Submission
+
+[Source](https://www.hv.se/om-oss/event-och-konferenser/desrist-2024/submissions/)
+
+**Paper submission**
+Full research papers and research-in-progress papers related to design science research are welcome. Submitted manuscripts should follow the guidelines below:
+
+- All submissions must be formatted according to the Springer LNCS guidelines
+- ==The page limit for full research papers is 12 pages, which excludes all related pages (excluding first page, references, etc.)==
+- The page limit for research-in-progress papers is 6 pages, which excludes all related pages (excluding first page, references, etc.)
+- All paper submissions must be anonymized for double-blind review
+
+==#TODO: anonymization - manually?==
+
+==LINK TO EASY CHAIR STILL MISSING==
+
 
 ### KEY DATES
 

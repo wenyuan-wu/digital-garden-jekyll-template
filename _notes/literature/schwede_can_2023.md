@@ -43,17 +43,14 @@ The limitations of the article include a focus on initial evidence without long-
 
 
 ```
-@misc{schwede_can_2023,
-	location = {Rochester, {NY}},
-	title = {Can Chatbots Be Persuasive? How to Boost the Effectiveness of Chatbot Recommendations for Increasing Purchase Intention},
-	url = {https://papers.ssrn.com/abstract=4305315},
-	shorttitle = {Can Chatbots Be Persuasive?},
-	abstract = {Firms increasingly invest in chatbots that provide purchase recommendations. However, customers often reject recommendations by chatbots because they find neither the contents of the recommendation (message-level) nor the chatbot itself (source-level) persuasive. To overcome these barriers and increase purchase intention, this study examines how the content of recommendation messages should be designed and which communication style the chatbot should use to provide recommendation messages. Results of a 2 (two-sided vs. one-sided recommendation message) ✕ 3 (warm vs. competent vs. neutral communication style) between-subject online experiment show that a two-sided recommendation message increases purchase intention, but only for chatbots using a warm or competent communication style. Whereas a warm chatbot leads to higher purchase intentions of a recommendation through promoting its source persuasiveness, a competent chatbot increases recommendation effectiveness by promoting message persuasiveness. Therefore, firms should refine a chatbot’s communication style for providing recommendations that persuade customers to purchase.},
-	number = {4305315},
-	author = {Schwede, Melanie and Mozafari, Nika and von Schnakenburg, Niclas and Hammerschmidt, Maik},
-	urldate = {2023-09-18},
-	date = {2023-01-01},
-	langid = {english},
-	keywords = {Can Chatbots Be Persuasive? How to Boost the Effectiveness of Chatbot Recommendations for Increasing Purchase Intention, Maik Hammerschmidt, Melanie Schwede, Niclas von Schnakenburg, Nika Mozafari, {SSRN}},
+@inproceedings{schwede_can_2023,
+  title      = {Can Chatbots Be Persuasive? How to Boost the Effectiveness of Chatbot Recommendations for Increasing Purchase Intention},
+  url        = {https://papers.ssrn.com/abstract=4305315},
+  shorttitle = {Can Chatbots Be Persuasive?},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  volume     = {56},
+  pages      = {3454--3463},
+  author     = {Schwede, Melanie and Mozafari, Nika and von Schnakenburg, Niclas and Hammerschmidt, Maik},
+  year       = {2023}
 }
 ```
