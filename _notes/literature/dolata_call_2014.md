@@ -43,20 +43,20 @@ The limitations of the article include an incomplete literature review and a pri
 
 ```
 @inproceedings{dolata_call_2014,
-	location = {Cham},
-	title = {Call for Action: Designing for Harmony in Creative Teams},
-	isbn = {978-3-319-06701-8},
-	doi = {10.1007/978-3-319-06701-8_18},
-	series = {Lecture Notes in Computer Science},
-	shorttitle = {Call for Action},
-	abstract = {Competitive markets force diverse organizations to intensively manage innovation. Many of them set up multifunctional teams responsible for generating novel and original ideas. Such teams often face higher risk of conflicts and tensions, being an inherent part of creative processes. Impact of this phenomena on creative performance of teams, even though extensively addressed in research, remains unclarified. We approach this issue while providing a novel interpretation framework inspired by the concept of harmony in jazz improvisation. We apply it to observations made with project teams in an organizational setting, and use it to inform design of a supporting collaborative solution. We postulate the need for further work on team harmony and creativity.},
-	pages = {273--288},
-	booktitle = {Advancing the Impact of Design Science: Moving from Theory to Practice},
-	publisher = {Springer International Publishing},
-	author = {Dolata, Mateusz and Schwabe, Gerhard},
-	editor = {Tremblay, Monica Chiarini and {VanderMeer}, Debra and Rothenberger, Marcus and Gupta, Ashish and Yoon, Victoria},
-	date = {2014},
-	langid = {english},
-	keywords = {creativity, harmony, jazz improvisation, task conflict, teamwork},
+  author    = {Dolata, Mateusz
+               and Schwabe, Gerhard},
+  editor    = {Tremblay, Monica Chiarini
+               and VanderMeer, Debra
+               and Rothenberger, Marcus
+               and Gupta, Ashish
+               and Yoon, Victoria},
+  title     = {Call for Action: Designing for Harmony in Creative Teams},
+  booktitle = {Advancing the Impact of Design Science: Moving from Theory to Practice},
+  year      = {2014},
+  publisher = {Springer International Publishing},
+  address   = {Cham},
+  pages     = {273--288},
+  abstract  = {Competitive markets force diverse organizations to intensively manage innovation. Many of them set up multifunctional teams responsible for generating novel and original ideas. Such teams often face higher risk of conflicts and tensions, being an inherent part of creative processes. Impact of this phenomena on creative performance of teams, even though extensively addressed in research, remains unclarified. We approach this issue while providing a novel interpretation framework inspired by the concept of harmony in jazz improvisation. We apply it to observations made with project teams in an organizational setting, and use it to inform design of a supporting collaborative solution. We postulate the need for further work on team harmony and creativity.},
+  isbn      = {978-3-319-06701-8}
 }
 ```
