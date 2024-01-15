@@ -21,13 +21,16 @@ Not provided for this book.
 
 ```
 @book{okeefe_persuasion_2016,
-	location = {Thousand Oaks, {CA}},
-	title = {Persuasion: Theory and Research},
-	isbn = {978-1-4522-7667-0},
-	shorttitle = {Persuasion},
-	abstract = {Persuasion: Theory and Research, Third Edition is a comprehensive overview of social-scientific theory and research on persuasion. Written in a clear and accessible style that assumes no special technical background in research methods, the Third Edition has been thoroughly revised to reflect developments in persuasion studies. New discussions of subjects such as reactance and the use of narratives as vehicles for persuasion, revised treatments of the theories of reasoned action and planned behavior, and two new chapters on social judgment theory and stage models provide your students with the most current work on persuasion in a clear, straightforward manner. In this edition, author Daniel J. O'Keefe has given special attention to the importance of adapting (tailoring) messages to audiences to maximize persuasiveness. Each chapter has a set of review questions to guide students through the chapter’s material and quickly master the concepts being introduced.},
-	publisher = {\{SAGE\} Publications, Inc},
-	author = {O'Keefe, Daniel James},
-	date = {2016},
+  author    = {O'Keefe, Daniel James},
+  address   = {Thousand Oaks, CA},
+  booktitle = {Persuasion theory and research},
+  edition   = {3rd},
+  isbn      = {9781452276670},
+  keywords  = {Sozialpsychologie},
+  language  = {eng},
+  lccn      = {2015000192},
+  publisher = {SAGE},
+  title     = {Persuasion : theory and research},
+  year      = {2016}
 }
 ```
