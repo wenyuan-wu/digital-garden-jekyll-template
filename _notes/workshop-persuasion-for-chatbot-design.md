@@ -111,9 +111,10 @@ There is evidence that "warmth" and "competence" of the chatbot help [[schwede_c
 
 ### Insights from the book "Persuasion: Theory and Research, Third Edition"
 
-==#TODO: check out the following chapters==
+#TODO: check out the following chapters
 - Chapter 9 - The Study of Persuasive Effects
 - Chapter 10 - Communicator Factors
+- Done by 21.01.2023 --> check [[okeefe_persuasion_2016|Persuasion: Theory and Research]]
 
 Chapter 11 "Message Factors" reviews research concerning the effects that selected message variations have on persuasion. The message factors discussed are grouped into three broad categories: message structure and format, message content, and sequential-request strategies. 
 
