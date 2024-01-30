@@ -67,4 +67,5 @@ Full research papers and research-in-progress papers related to design science r
 [Official Website](https://www.hv.se/om-oss/event-och-konferenser/desrist-2024/)
 [Submissions](https://www.hv.se/om-oss/event-och-konferenser/desrist-2024/submissions/)
 [Wirtschaftsinformatik](https://wirtschaftsinformatik.de/termine-startseite/19.-desrist-2024)
+[SpringerLink](https://link.springer.com/conference/desrist)
 
