@@ -53,7 +53,7 @@ title: ICIS
 
 [Submission](https://icis2024.aisconferences.org/submissions/types-of-submissions/#toggle-id-1)
 
-Completed research papers must not exceed sixteen (16) single-spaced pages (all inclusive) and must conform to the ICIS paper submission template. The page limit covers everything in the submission, including title, text, tables, figures, appendices, and references. Submissions that exceed this limit will be automatically rejected. For empirical work, completed research papers should have completed analyses and documentation of results. Completed research papers should be similar to journal submissions, but shorter.
+Completed research papers must not exceed **sixteen (16)** single-spaced pages (all inclusive) and must conform to the ICIS paper submission template. The page limit covers everything in the submission, including title, text, tables, figures, appendices, and references. Submissions that exceed this limit will be automatically rejected. For empirical work, completed research papers should have completed analyses and documentation of results. Completed research papers should be similar to journal submissions, but shorter.
 
 Review Criteria for Completed Research Papers:
 
