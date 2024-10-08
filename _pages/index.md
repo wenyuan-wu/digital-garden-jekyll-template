@@ -12,9 +12,28 @@ permalink: /
 <br><span style="font-weight: bold">― George Orwell, 1984</span>
 </p>
 
-This is my mind place to organize and publish my notes and thoughts in a digital garden style. As a PhD student, my main focus is on conversational AI. But of course, the content is not limited to this domain. Feel free to look around and find something you like.
+This is my mind place to organize and publish my notes and thoughts in a digital-garden style. As a PhD student, my main focus is on conversational AI. But natually, the content is not limited to this domain.
 
-<strong>Recently updated notes</strong>
+<strong>Map of Concepts (MOCs)</strong>
+
+<ul>
+  {% assign moc_notes = site.notes %}
+  {% for note in moc_notes %}
+    {% capture raw_prefix %}
+      {{ note.title | slice: 0, 3 }}
+    {% endcapture %}
+    {% assign note_prefix = raw_prefix | strip %}
+    
+    <!-- Check for notes whose titles start with "MOC", note_prefix is trimmed to avoid whitespace issues -->
+    {% if note_prefix == "MOC" %}
+      <li>
+        <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<strong>Recently Updated Notes</strong>
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}

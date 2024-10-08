@@ -4,6 +4,8 @@ title: DESRIST
 
 ## International Conference on Design Science Research in Information Systems and Technology
 
+### 2025: TBD
+
 ### 2024: 19th Conference
 
 ==03.06.2024 - 05.06.2024==

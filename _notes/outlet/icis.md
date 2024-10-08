@@ -4,6 +4,14 @@ title: ICIS
 
 ## ICIS - International Conference on Information Systems
 
+<!-- <ul style="padding: 1em 2em; background: #C1E1C1; border-radius: 4px;">
+    <li><strong>Workshop Overview</strong>: A summary of a workshop held on 2023-12-06, focusing on chatbot design for persuasive and elicitive communication. Key participants included M.D., G.S., and R.W., with input from psychotherapist I.V. and A.S.</li>
+    <li><strong>Key Design Elements</strong>: Discussion on including health literacy and educational content, using incremental behavioral adjustment strategies ("frequency over duration"), and implementing sustained motivational reinforcement for effective persuasion in chatbot interactions.</li>
+    <li><strong>Psychological Support and Persuasive Communication</strong>: Strategies for chatbot design post-relationship formation to offer psychological support and integrate persuasive communication tactics effectively.</li>
+    <li><strong>Additional Insights</strong>: Insights from M.D. on the importance of 'warmth' and 'competence' in chatbots, along with a review of "Persuasion: Theory and Research, Third Edition" for practical implementation in chatbot messaging and strategies.</li>
+    <li><strong>Enabling and Trigger Mechanisms</strong>: Discussion on enabling mechanisms like providing instructions and adapting style, along with trigger mechanisms for reminders and nudges in chatbot interactions.</li>
+</ul> -->
+
 ### 2024: Bangkok, Thailand, December 15-18
 
 **ZRH Time: May 1, 18:59 (5 hours behind)**
