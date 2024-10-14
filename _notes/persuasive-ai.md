@@ -8,7 +8,7 @@ Of course it is [[moc-persuasion|persuasion]] with [[ai|artificial intelligence]
 
 ## Articles
 
-[AI Is Becoming More Persuasive Than Humans](https://www.psychologytoday.com/intl/blog/emotional-behavior-behavioral-emotions/202403/ai-is-becoming-more-persuasive-than-humans)
+[**AI Is Becoming More Persuasive Than Humans**](https://www.psychologytoday.com/intl/blog/emotional-behavior-behavioral-emotions/202403/ai-is-becoming-more-persuasive-than-humans)
 
 **Key points**
 
