@@ -30,3 +30,10 @@ And this:
 
 https://www.nature.com/articles/s41598-024-53755-0
 
+
+## Research Agenda
+
+- Data modalities, look at figure from **paper**.
+    - unimodal vs. multimodal models
+
+
