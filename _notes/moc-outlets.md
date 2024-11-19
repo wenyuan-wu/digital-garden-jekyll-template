@@ -28,6 +28,7 @@ Some resources:
 | C | HAI | May | [[hai|HAI]] |
 | C | AMCIS | Early March?? | [[amcis|AMCIS]] |
 | ? | SwissText | March | [[swiss-text|SwissText]] |
+| ? | PERSUASIVE | January | [[persuasive|PERSUASIVE]] |
 
 ### Journal
 
