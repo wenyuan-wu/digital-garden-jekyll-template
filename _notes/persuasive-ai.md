@@ -4,7 +4,7 @@ title: Persuasive AI
 
 ## Persuasive AI
 
-Of course it is [[moc-persuasion|persuasion]] with [[ai|artificial intelligence]]...
+Of course it is [[moc-persuasion|persuasion]] with [[ai-ml|artificial intelligence]]...
 
 ## Articles
 
