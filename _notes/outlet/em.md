@@ -8,7 +8,7 @@ title: Electronic Markets
 
 > Electronic Markets (EM) is a scholarly journal that covers diverse aspects of the digital economy. Edited at Leipzig University and published by Springer, EM has emerged as one of the premier scientific journals that explicitly focus on networked businesses enabled by information technology ("digitalization") and digital platforms. Since 2010, EM is included in the Social Science Citation Index (SSCI) and in 2020, EM celebrated it's 30th annual volume. With a 2023 impact factor (IF) of 7.1 EM is listed in the top quartile (Q1) of Scimago journals and as an "A journal" in many rankings. EM is accessible in around 7,000 institutions worldwide via SpringerLink.
 
-CfP: [Call for Fundamentals](https://www.electronicmarkets.org/call-for-papers/single-view-for-cfp/datum/2018/08/08/call-for-fundamentals/)
+CfP: [Call for Fundamentals](https://electronicmarkets.org/call-for-papers/ccfp/call-for-fundamentals)
 
 ### Submission
 
