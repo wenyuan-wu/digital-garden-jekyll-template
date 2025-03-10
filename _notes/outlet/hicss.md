@@ -6,8 +6,40 @@ title: HICSS
 
 [Official Website](https://hicss.hawaii.edu/)
 
+### HICSS-59
+
+**January 6-9, 2026**
+
+The 59th Hawaii International Conference on System Sciences (HICSS) will take place at Hyatt Regency Maui on January 6-9, 2026. The conference hotel is about a 40-50 minute drive from Kahului Airport (OGG).
+
+
+**Important Dates for Paper Submission**
+
+| | |
+| ---| --- |
+June 15, 2025 | 11:59 pm HST:          Paper Submission Deadline
+August 17, 2025 | 11:59 pm HST:       Notification of Acceptance/Rejection
+September 22, 2025|11:59 pm HST:  Deadline for Authors to Submit Final Manuscript for Publication
+October 1, 2025 | 11:59 pm HST:       Conference registration deadline for at least one author of each paper
+
+HST: 11 hours late
+
+[Tracks & Minitracks](https://hicss.hawaii.edu/tracks-and-minitracks/)
+
+[Authors](https://hicss.hawaii.edu/authors/)
+
+
+**Paper May Not Exceed Ten Pages (Including References)**
+
+#### Tracks
+
+##### Seminar
+
+https://hicss.hawaii.edu/tracks-59/organizational-systems-and-technology/#ai-organizing-and-management-minitrack
 
 ### HICSS-58 Call for Participation
+
+
 
 Important Dates for Paper Submission
 
