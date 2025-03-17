@@ -8,3 +8,7 @@ title: Platform Theory
 
 Platform is ...
 
+[Michael Cusumano](https://scholar.google.ch/citations?user=qoICYDMAAAAJ&hl=de&oi=sra)
+
+[Helmut Krcmar](https://scholar.google.com/citations?user=zwax5qkAAAAJ&hl=en)
+
