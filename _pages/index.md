@@ -14,6 +14,8 @@ permalink: /
 
 This is my mind place to organize and publish my notes and thoughts in a digital-garden style. As a PhD student, my main focus is on conversational AI. But natually, the content is not limited to this domain.
 
+[[reading-list|Reading List]]
+
 <strong>Map of Concepts (MOCs)</strong>
 
 <ul>
