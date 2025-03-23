@@ -1,5 +1,5 @@
 ---
-title: MOC - Statistics
+title: Statistics
 ---
 
 ## Resources

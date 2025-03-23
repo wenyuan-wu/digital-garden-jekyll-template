@@ -1,5 +1,5 @@
 ---
-title: Artificial Intelligence / Machine Learning
+title: MOC - Artificial Intelligence / Machine Learning
 ---
 
 ## Artificial intelligence
