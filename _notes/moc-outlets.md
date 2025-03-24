@@ -40,4 +40,5 @@ Some resources:
 | ? | International Journal of Information Management | [Link](https://www.sciencedirect.com/journal/international-journal-of-information-management) |
 | ? | Business & Information Systems Engineering | [[bise|BISE]] |
 | ? | Electronic Markets | [[em|EM]] |
+| ? | New Media & Society | [Link](https://journals.sagepub.com/home/nms) |
 
