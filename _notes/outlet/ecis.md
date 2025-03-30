@@ -34,7 +34,45 @@ title: ECIS
 
 #### Revision Process
 
+Please revise your manuscript according to the editorial and review comments (see below) and submit the ‘camera-ready’ version of the paper to the conference submission system by **March 31, 2025**. Once the paper is resubmitted, the Program Chairs together with the Track Chairs will make the final decision based on the revision. The final set of papers will be published in the AIS Library.
 
+For the revision, you need to submit four documents:
+
+- The revised manuscript (camera ready), which strictly conforms to the formatting guidelines and requirements for ECIS 2025 proceedings as described in the Final Submission Instructions at [https://ecis2025.eu/submissions/submission-formatting-checklist/](https://ecis2025.eu/submissions/submission-formatting-checklist/). This should not have the changes marked or tracked. Please make sure to use the revision template provided on the website. Please submit this document in Word and PDF.
+
+- A point-by-point response document to the comments by the Track Chairs (if any), the Associate Editor, and the Reviewers, describing how you have addressed the review team’s comments. In order to expedite the processing of the revised manuscript, be as specific as possible in your responses to the review team. For changes you have not incorporated as requested by the review team, please provide a clear and compelling rationale in the response document. Please submit this document in PDF.
+
+- The revised manuscript (indicating changes), either (a) with track changes showing the changes from the previous submitted version, or (b) highlighting the changes made. Please submit this document in PDF.
+
+Unlike your original submission, the final version needs to contain all identifying information, including author(s) details, headers, and references that may have been removed for the double-blind review process.
+
+To submit your revised manuscript, please log in at [https://new.precisionconference.com/ais](https://new.precisionconference.com/ais) with the credentials you used to submit the original manuscript.
+
+#### Final Submission Instructions
+
+##### General information
+
+The deadline for final submission is **1 April, 2025**.
+
+To submit your final submission, please log in to PCS with the credentials you used to submit the original manuscript. For the revision, you are requested to submit three documents in PDF and WORD format:
+
+- The revised manuscript (camera ready), which conforms to the formatting guidelines and requirements for ECIS proceedings as described here and the ECIS2025 Revision Template. This should not have the changes marked or tracked.
+- A point-by-point response document to the comments by the Track Chairs (if any), the Associate Editor, and the Reviewers, describing how you have addressed the review team’s comments. In order to expedite the processing of the revised manuscript, be as specific as possible in your responses to your review team. For changes you have not incorporated as requested by the Associate Editor or the Reviewers, please provide a clear and compelling rationale in the response document.
+- The revised manuscript (indicating changes), either (a) with track changes showing the changes from the previous submitted version (preferred), or (b) highlighting the changes made
+
+##### Instructions for Completed Research Papers (CRP)
+
+The final submission for completed research papers (CRP) needs to contain all identifying information, including author(s) details, headers, and the references that were removed for the double-blind review process.
+
+Accepted CRP will be scheduled for presentation in a session of the respective track and will be included in the conference proceedings provided that at least one author registers and attends the conference.
+
+Final submissions for completed research papers must not exceed **sixteen** single-spaced pages and must conform to the ECIS2025 Revision Template. The page limit includes all text (including title, abstract, keywords), figures, tables, appendices, and references. Final submissions that exceed this limit will not be included in the Conference proceedings.
+
+#### Registration and Conference Format
+
+Please note that at least one author must register for the conference by the end of the early registration period **(15 April 2025)**, to ensure the inclusion of the paper in the Conference Proceedings. Additionally, at least one author must be present at the conference and be prepared to present their paper. Failure to comply with this requirement will result in the paper being removed from the conference proceedings.
+
+Details about the presentation of your work at the conference will be shared at a later stage. Similarly, details about conference format and registration will be available at a later stage on the website ([https://ecis2025.eu](https://ecis2025.eu)).
 
 
 #### Tracks
