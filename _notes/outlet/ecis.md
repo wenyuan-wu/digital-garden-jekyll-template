@@ -31,6 +31,12 @@ title: ECIS
 
 > Authors will need to disclose the use of Generative AI for any aspect of the work. You need to declare in PCS before submission: “I have used Generative AI to assist in some aspect of conducting my research or writing the paper.” If the response is “Yes”, you will be asked to describe how you have used Generative AI in your work.
 
+
+#### Revision Process
+
+
+
+
 #### Tracks
 
 - [Track 17 - Health Information Technology](https://ecis2025.eu/track-descriptions/#toggle-id-17)
