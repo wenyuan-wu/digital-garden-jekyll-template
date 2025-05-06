@@ -24,6 +24,8 @@ October 1, 2025 | 11:59 pm HST:       Conference registration deadline for at le
 
 HST: 11 hours late
 
+Paper must not exceed **ten** pages (including references).
+
 [Tracks & Minitracks](https://hicss.hawaii.edu/tracks-and-minitracks/)
 
 [Authors](https://hicss.hawaii.edu/authors/)
@@ -33,13 +35,17 @@ HST: 11 hours late
 
 #### Tracks
 
-##### Seminar
+##### DC Paper
+
+
+
+##### Seminar Project Management
 
 https://hicss.hawaii.edu/tracks-59/organizational-systems-and-technology/#ai-organizing-and-management-minitrack
 
+---
+
 ### HICSS-58 Call for Participation
-
-
 
 Important Dates for Paper Submission
 
