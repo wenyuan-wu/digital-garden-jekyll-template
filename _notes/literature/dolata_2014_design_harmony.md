@@ -1,5 +1,5 @@
 ---
-title: dolata_call_2014
+title: Dolota-2014-Designing-Harmony
 ---
 
 M.D.'s first paper during PhD? Seems like a good start as a literature review...
