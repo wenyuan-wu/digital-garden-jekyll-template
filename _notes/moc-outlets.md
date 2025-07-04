@@ -27,6 +27,8 @@ Some resources:
 | C | MUC | April | [[muc|MUC]] |
 | C | HAI | May | [[hai|HAI]] |
 | C | AMCIS | Early March?? | [[amcis|AMCIS]] |
+| B | FAccT | End January | [[facct|FAcct]] |
+| C | WI-Tagung | 13.03.2025 | [[wi|WI-Tagung]] |
 | ? | SwissText | March | [[swiss-text|SwissText]] |
 | ? | PERSUASIVE | January | [[persuasive|PERSUASIVE]] |
 
@@ -39,6 +41,6 @@ Some resources:
 | ? | Computers in Human Behavior | [Link](https://www.sciencedirect.com/journal/computers-in-human-behavior) |
 | ? | International Journal of Information Management | [Link](https://www.sciencedirect.com/journal/international-journal-of-information-management) |
 | ? | Business & Information Systems Engineering | [[bise|BISE]] |
-| ? | Electronic Markets | [[em|EM]] |
+| B | Electronic Markets | [[em|EM]] |
 | ? | New Media & Society | [Link](https://journals.sagepub.com/home/nms) |
 
