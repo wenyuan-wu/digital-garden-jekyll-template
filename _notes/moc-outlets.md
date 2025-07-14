@@ -44,4 +44,4 @@ Some resources:
 | ? | Business & Information Systems Engineering | [[bise|BISE]] |
 | B | Electronic Markets | [[em|EM]] |
 | ? | New Media & Society | [Link](https://journals.sagepub.com/home/nms) |
-
+| ? | Journal of Medical Internet Research | [Link](https://www.jmir.org/) |
