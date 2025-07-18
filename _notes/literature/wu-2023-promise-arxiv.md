@@ -1,5 +1,6 @@
 ---
-title: wu_promise_2023
+title: (2023) Wu - PROMISE (Technical Report)
+type: paper
 ---
 
 > Its use of state machine modeling concepts enables model-driven, dynamic prompt orchestration across hierarchically nested states and transitions. This improves the control of the behavior of language models and thus enables their effective and efficient use.

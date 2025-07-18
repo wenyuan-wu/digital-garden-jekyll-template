@@ -15,3 +15,17 @@ title: Reading List
 
 
 
+## 📄 Paper
+
+
+<ul>
+  {% assign moc_notes = site.notes %}
+  {% for note in moc_notes %}
+    {% if note.type == "paper" %}
+      <li>
+        <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
