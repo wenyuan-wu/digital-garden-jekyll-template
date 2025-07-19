@@ -9,6 +9,7 @@ Lists of published and ongoing paper projects.
 | Year | Outlet | Title (Provisional) | Status |
 | --- | --- | --- | --- |
 | 2025 | [[em|EM]] | Persuasive AI | Under Review |
+| 2025 | [[hicss|HICSS]] | **(Lead: AA)** Evaluating Project Management Methodologies for AI Projects | Under Review |
 | 2025 | [[npj-dm|npj Digital Medicine]] | **(Lead: DS)** Designing Delegation Systems to Improve Adherence in Chronic Care | Rejected? |
 | 2025 | [[jmir|JMIR]] | **(Lead: AB)** “Is Attention All We Need?” - A Systematic Literature Review of LLMs in Mental Healthcare| Under Review |
 | 2025 | [[chi|CHI]] | Human-Chatbot Interaction: Lessons Learned From A Digital Health Project | Drafting |
