@@ -15,6 +15,7 @@ Lists of published and ongoing paper projects.
 | 2025 | [[chi|CHI]] | Human-Chatbot Interaction: Lessons Learned From A Digital Health Project | Drafting |
 | 2025 | [[chi|CHI]] | **(Lead: IV)** AI-Blended Psychotherapy | Drafting |
 | 2025 | Journal | Persuasive Prompting | Drafting |
+| 2025 | TBD | AI-Blended Psychotherapy (Master's Project) | Planned |
 | 2025 | [[npj-dm|npj Digital Medicine]] | **(Lead: DS)** Designing Delegation Systems to Improve Adherence in Chronic Care | Rejected? |
 
 
