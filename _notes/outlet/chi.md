@@ -31,9 +31,12 @@ The average length of CHI papers is approximately 7,000–8,000 words, excluding
 - Thursday, September 4, 2025: Abstract/metadata deadline (title, abstract, authors, subcommittee choices, and other metadata; please note that changes on authors are NOT allowed after this date for the whole review and publication process)
 - Thursday, September 11, 2025: Full paper deadline
 
+**Note that the use of any references marked "anonymous" is grounds for desk rejection.**
+
 - [Guide to a Successful Submission](https://chi2026.acm.org/guide-to-a-successful-submission/)
 - [Selecting a Subcommittee](https://chi2026.acm.org/selecting-a-subcommittee/)
 - [CHI Publication Formats](https://chi2026.acm.org/chi-publication-formats/)
+- [CHI Anonymization Policy](https://chi2026.acm.org/chi-anonymization-policy/)
 
 ---
 
