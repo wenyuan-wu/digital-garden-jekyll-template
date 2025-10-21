@@ -32,6 +32,7 @@ Some resources:
 | ? | SwissText | March | [[swiss-text|SwissText]] |
 | ? | PERSUASIVE | January | [[persuasive|PERSUASIVE]] |
 | ? | CAiSE | December | [[caise|CAiSE]] |
+| ? | ICTH | July | [[icth|ICTH]] |
 
 ### Journal
 
@@ -47,3 +48,4 @@ Some resources:
 | ? | New Media & Society | [Link](https://journals.sagepub.com/home/nms) |
 | ? | Journal of Medical Internet Research | [[jmir|JMIR]] |
 | ? | npj Digital Medicine | [[npj-dm|npj Digital Medicine]] |
+| ? | Artificial Intelligence in Medicine | [[aim|Artificial Intelligence in Medicine]] |
