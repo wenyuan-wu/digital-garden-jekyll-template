@@ -2,7 +2,13 @@
 title: CSCW
 ---
 
-## CSCW - ACM Conference on Computer-Supported Cooperative Work and Social Computing
+# CSCW - ACM Conference on Computer-Supported Cooperative Work and Social Computing
+
+## 2026
+
+[CSCW 2026](https://cscw.acm.org/2026/papers.html)
+
+## 2025
 
 [JULY 2024 cycle/CSCW 2025 CfP](https://cscw.acm.org/2025/index.php/submit-papers/)
 
