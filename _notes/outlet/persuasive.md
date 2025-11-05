@@ -9,9 +9,13 @@ title: PERSUASIVE
 [PERSUASIVE 2026](https://2026.persuasivetech.org/)
 
 **Full/Short Papers**
-- Submission Deadline: November 7, 2025
+
+- Abstract Submission Deadline: November 7, 2025 (AOE)
+- Full & Short Paper Submission Deadline (for abstracts submitted by Nov 7): November 13, 2025 (AOE)
 - Notification of Acceptance: December 20, 2025
 - Camera-Ready Submission: January 10, 2026
+
+*Authors who submit an abstract by November 7 (AOE) may upload or update their full & short paper until November 13 (AOE).
 
 ### Submission Format
 
