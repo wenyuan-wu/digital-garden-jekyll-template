@@ -14,7 +14,7 @@ Lists of published and ongoing paper projects.
 | 2025 | [[ecis|ECIS]] | **(Lead: AA)** HARMONY: A New Framework Towards Resolving Issues of Managing Artificial Intelligence Projects | Submitted |
 | 2025 | [[chi|CHI]] | “What Does AI Care?”: The Paradox of Empathy in a Persuasive Chatbot forAdherence to Treatment | Submitted |
 | 2025 | [[em|EM]] | Persuasive AI | Major Revision |
-| 2025 | [[ejis|EJISy]] | **(Lead: DS)** Designing Human-AI Delegation Systems to Improve Adherence in Chronic Care | Submitted |
+| 2025 | [[ejis|EJIS]] | **(Lead: DS)** Designing Human-AI Delegation Systems to Improve Adherence in Chronic Care | Submitted |
 | 2025 | Journal | Persuasive Prompting | Planning |
 | 2025 | Journal | **(Lead: AS)** Empathy 2nd Round | Planning |
 
