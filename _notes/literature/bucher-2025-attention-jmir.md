@@ -7,9 +7,9 @@ type: paper
 
 # “It’s Not Only Attention We Need”: Systematic Review of Large Language Models in Mental Health Care
 
-- [ZORA]()
+- [ZORA](https://www.zora.uzh.ch/handle/20.500.14742/238482)
 - [JMIR](https://mental.jmir.org/2025/1/e78410)
-- [Zotero](zotero://select/library/items/CWI5HSIJ)
+- [Zotero](zotero://select/library/items/3B3GINQI)
 - [[jmir|JMIR]]
 
 ## Abstract
