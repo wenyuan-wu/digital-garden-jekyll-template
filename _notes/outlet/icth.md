@@ -8,6 +8,8 @@ The 15th International Conference on Current and Future Trends of Information an
 
 [Link](https://cs-conferences.acadiau.ca/icth-25/)
 
+Publishing: https://www.sciencedirect.com/journal/procedia-computer-science/vol/251/suppl/C
+
 **October 28-30, 2025, Istanbul, Türkiye**
 
 - Workshop Proposals Due	June 1, 2025
