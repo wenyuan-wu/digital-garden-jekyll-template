@@ -33,6 +33,7 @@ Some resources:
 | ? | PERSUASIVE | January | [[persuasive|PERSUASIVE]] |
 | ? | CAiSE | December | [[caise|CAiSE]] |
 | ? | ICTH | July | [[icth|ICTH]] |
+| ? | EGOV | March | [[egov|EGOV]] |
 
 ### Journal
 
