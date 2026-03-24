@@ -14,8 +14,11 @@ title: MUC
 
 [Submission](https://muc2026.mensch-und-computer.de/submission/hci-scientific-track/call-for-full-papers/)
 
-- Submissions are due on Wednesday, April 1, 2026, AoE (Thursday, April 2, 2026, 2pm CEST) (NO EXTENSIONS).
-- Submission length should reflect the contribution and typically range between 4,000 and 9,000 words. Excessively long papers (more than 12,000 words) may be desk-rejected.
+- Paper Submission: Wed, April 1, 2026 AoE (Thu, April 2, 2026, 2pm CEST) (NO EXTENSIONS)
+- Decision Notification: Wed, May 20, 2026 AoE (Thu, May 21, 2026, 2pm CEST)
+- Camera-Ready Deadline: Wed, June 3, 2026 AoE (Thu, June 4, 2026, 2pm CEST)
+
+Submission length should reflect the contribution and typically range between 4,000 and 9,000 words. Excessively long papers (more than 12,000 words) may be desk-rejected.
 
 ## 2025
 
