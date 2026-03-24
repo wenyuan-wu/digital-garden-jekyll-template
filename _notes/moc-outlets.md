@@ -24,7 +24,7 @@ Some resources:
 | A | CSCW | January, July | [[cscw|CSCW]] |
 | B | INTERACT | January | [[interact|INTERACT]] |
 | B | IUI | October | [[iui|IUI]] |
-| C | MUC | April | [[muc|MUC]] |
+| C | Mensch und Computer | April | [[muc|MUC]] |
 | C | HAI | May | [[hai|HAI]] |
 | C | AMCIS | Early March?? | [[amcis|AMCIS]] |
 | B | FAccT | End January | [[facct|FAcct]] |
