@@ -21,7 +21,7 @@ Lists of published and ongoing paper projects.
 
 | Year | Outlet | Title | Status |
 | --- | --- | --- | --- |
-| 2026 | [[persuasive|PERSUASIVE]] | [wu-2026-designning-persuasive|[Designing Persuasive Artificial Intelligence for Mental Health: A Prioritization Framework to Enhance Trust and Engagement]] | Published |
+| 2026 | [[persuasive|PERSUASIVE]] | [[wu-2026-designning-persuasive|[Designing Persuasive Artificial Intelligence for Mental Health: A Prioritization Framework to Enhance Trust and Engagement]] | Published |
 | 2025 | [[icth|ICTH]] | **(Lead: AS)** [[heierli-2025-from-conversation-icth|From Conversation to Agent: LLM-Driven Design of Structured Healthcare Agents]] | Published |
 | 2025 | [[jmir|JMIR]] | **(Lead: AB)** [[bucher-2025-attention-jmir|“It’s Not Only Attention We Need”: Systematic Review of Large Language Models in Mental Health Care]] | Published |
 | 2025 | [[ecis|ECIS]] | [[wu-2025-persuasive-prompting-ecis|Persuasive Prompting: The Case of Digital Health]] | Published |
