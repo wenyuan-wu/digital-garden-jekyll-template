@@ -8,20 +8,20 @@ Lists of published and ongoing paper projects.
 
 | Year | Outlet | Title (Provisional) | Status |
 | --- | --- | --- | --- |
-| 2025 | [[persuasive|PERSUASIVE]] | Designing Persuasive Artificial Intelligence for Mental Health: A Prioritization Framework to Enhance Trust and Engagement | Accepted |
-| 2025 | [[ecis|ECIS]] | **(Lead: IV)** Designing for Adherence: Lessons Learned From a Therapist-Centric AI-Blended Psychotherapy Platform | Submitted |
-| 2025 | [[ecis|ECIS]] | **(Lead: AA)** HARMONY: A New Framework Towards Resolving Issues of Managing Artificial Intelligence Projects | Submitted |
-| 2025 | [[chi|CHI]] | “What Does AI Care?”: The Paradox of Empathy in a Persuasive Chatbot forAdherence to Treatment | Submitted |
-| 2025 | [[em|EM]] | Persuasive AI | Submitted |
+| 2026 | IEEE Transactions on Affective Computing | “What Does AI Care?”: The Paradox of Empathy in a Persuasive Chatbot forAdherence to Treatment | Planning |
+| 2026 | [[muc|MuC]] | Designing for Adherence: Lessons Learned From a Therapist-Centric AI-Blended Psychotherapy Platform | Submitted |
+| 2026 | [[egov|EGOV]] | **(Lead: RS)** Can AI Representatives be Legitimate? An Exploratory Study in Citizen Participation | Submitted |
+| 2026 | [[wi|WI]] | **(Lead: AA)** HARMONY: A New Framework Towards Resolving Issues of Managing Artificial Intelligence Projects | Submitted |
+| 2026 | [[em|EM]] | Persuasive AI | Submitted |
 | 2025 | [[ejis|EJIS]] | **(Lead: DS)** Designing Human-AI Delegation Systems to Improve Adherence in Chronic Care | Submitted |
 | 2025 | Journal | Persuasive Prompting | Planning |
 | 2025 | Journal | **(Lead: AS)** Empathy 2nd Round | Planning |
-
 
 ## ✅ Done
 
 | Year | Outlet | Title | Status |
 | --- | --- | --- | --- |
+| 2026 | [[persuasive|PERSUASIVE]] | [wu-2026-designning-persuasive|[Designing Persuasive Artificial Intelligence for Mental Health: A Prioritization Framework to Enhance Trust and Engagement]] | Published |
 | 2025 | [[icth|ICTH]] | **(Lead: AS)** [[heierli-2025-from-conversation-icth|From Conversation to Agent: LLM-Driven Design of Structured Healthcare Agents]] | Published |
 | 2025 | [[jmir|JMIR]] | **(Lead: AB)** [[bucher-2025-attention-jmir|“It’s Not Only Attention We Need”: Systematic Review of Large Language Models in Mental Health Care]] | Published |
 | 2025 | [[ecis|ECIS]] | [[wu-2025-persuasive-prompting-ecis|Persuasive Prompting: The Case of Digital Health]] | Published |
