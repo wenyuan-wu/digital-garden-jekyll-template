@@ -2,7 +2,7 @@
 title: ICIS
 ---
 
-## ICIS - International Conference on Information Systems
+# ICIS - International Conference on Information Systems
 
 <!-- <ul style="padding: 1em 2em; background: #C1E1C1; border-radius: 4px;">
     <li><strong>Workshop Overview</strong>: A summary of a workshop held on 2023-12-06, focusing on chatbot design for persuasive and elicitive communication. Key participants included M.D., G.S., and R.W., with input from psychotherapist I.V. and A.S.</li>
@@ -12,7 +12,16 @@ title: ICIS
     <li><strong>Enabling and Trigger Mechanisms</strong>: Discussion on enabling mechanisms like providing instructions and adapting style, along with trigger mechanisms for reminders and nudges in chatbot interactions.</li>
 </ul> -->
 
-### 2024: Bangkok, Thailand, December 15-18
+## 2026: Lisbon, Portugal, December 13-16
+
+[Official Website](https://icis2026.aisconferences.org/)
+
+- Submission Deadline:May 1 (Fri.), 2026, by 23:59 WEST (UTC +1) – Lisbon
+- Acceptance Notification: July 27, 2026
+- Final Paper Deadline: (completed, short, teaching cases, panels, PDW)	September 1 (Tues.), 2026, by 23:59 WEST (UTC +1) – Lisbon
+- Final Acceptance Notification: September 25 (Fri.), 2026, by 23:59 WEST (UTC +1) – Lisbon
+
+## 2024: Bangkok, Thailand, December 15-18
 
 **ZRH Time: May 1, 18:59 (5 hours behind)**
 
