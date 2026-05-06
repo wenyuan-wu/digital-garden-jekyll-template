@@ -51,3 +51,4 @@ Some resources:
 | ? | npj Digital Medicine | [[npj-dm|npj Digital Medicine]] |
 | ? | Artificial Intelligence in Medicine | [[aim|Artificial Intelligence in Medicine]] |
 | ? | IEEE Transactions on Affective Computing | [[taffc|TAFFC]] |
+| ? | Computers in Human Behavior | [[chb|CHB]] |
