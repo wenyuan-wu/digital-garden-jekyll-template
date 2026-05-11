@@ -8,9 +8,10 @@ Lists of published and ongoing paper projects.
 
 | Year | Outlet | Title (Provisional) | Status |
 | --- | --- | --- | --- |
-| 2026 | [[taffc|TAFFC]] | “What Does AI Care?”: The Paradox of Empathy in a Persuasive Chatbot forAdherence to Treatment | Submitted |
+| 2026 | [[egov|EGOV]] | **(Lead: RS)** Can AI Representatives be Legitimate? An Exploratory Study in Citizen Participation | Accepted |
+| 2026 | [[icis|ICIS]] | **(Lead: RS)** Navigating Value Pluralism with Co-Opted AI Representatives | Submitted |
+| 2026 | [[chb|CHB]] | “What Does AI Care?”: The Paradox of Empathy in a Persuasive Chatbot forAdherence to Treatment | Submitted |
 | 2026 | [[muc|MuC]] | Designing for Adherence: Lessons Learned From a Therapist-Centric AI-Blended Psychotherapy Platform | Submitted |
-| 2026 | [[egov|EGOV]] | **(Lead: RS)** Can AI Representatives be Legitimate? An Exploratory Study in Citizen Participation | Submitted |
 | 2026 | [[wi|WI]] | **(Lead: AA)** HARMONY: A New Framework Towards Resolving Issues of Managing Artificial Intelligence Projects | Submitted |
 | 2026 | [[em|EM]] | Persuasive AI | Submitted |
 | 2025 | [[ejis|EJIS]] | **(Lead: DS)** Designing Human-AI Delegation Systems to Improve Adherence in Chronic Care | Submitted |
