@@ -14,7 +14,7 @@ Lists of published and ongoing paper projects.
 | 2026 | [[muc|MuC]] | Designing for Adherence: Lessons Learned From a Therapist-Centric AI-Blended Psychotherapy Platform | Submitted |
 | 2026 | [[wi|WI]] | **(Lead: AA)** HARMONY: A New Framework Towards Resolving Issues of Managing Artificial Intelligence Projects | Submitted |
 | 2026 | [[em|EM]] | Persuasive AI | Submitted |
-| 2025 | [[ejis|EJIS]] | **(Lead: DS)** Designing Human-AI Delegation Systems to Improve Adherence in Chronic Care | Submitted |
+| 2025 | PLOS Digital Health| **(Lead: DS)** Designing Human-AI Delegation Systems to Improve Adherence in Chronic Care | Submitted |
 | 2025 | Journal | Persuasive Prompting | Planning |
 | 2025 | Journal | **(Lead: AS)** Empathy 2nd Round | Planning |
 
