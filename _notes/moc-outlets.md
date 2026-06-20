@@ -40,7 +40,7 @@ Some resources:
 | Rating | Name | Note |
 | --- | --- | --- |
 | ? | Information Systems Journal | [Link](https://onlinelibrary.wiley.com/journal/13652575) |
-| ? | Information Technology & People | [Link](https://www.emeraldgrouppublishing.com/journal/itp) |
+| ? | Information Technology & People | [[itp|ITP]] |
 | ? | Decision Support Systems | [Link](https://www.sciencedirect.com/journal/decision-support-systems) |
 | ? | Computers in Human Behavior | [Link](https://www.sciencedirect.com/journal/computers-in-human-behavior) |
 | ? | International Journal of Information Management | [Link](https://www.sciencedirect.com/journal/international-journal-of-information-management) |
